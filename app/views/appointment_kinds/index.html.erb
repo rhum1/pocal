@@ -1,0 +1,24 @@
+<h1>Listing appointment_kinds</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Duration</th>
+  </tr>
+
+<% @appointment_kinds.each do |appointment_kind| %>
+  <tr>
+    <td><%=h appointment_kind.name %></td>
+    <td><%=h appointment_kind.description %></td>
+    <td><%=h appointment_kind.duration %></td>
+    <td><%= link_to 'Show', appointment_kind %></td>
+    <td><%= link_to 'Edit', edit_appointment_kind_path(appointment_kind) %></td>
+    <td><%= link_to 'Destroy', appointment_kind, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New appointment_kind', new_appointment_kind_path %>

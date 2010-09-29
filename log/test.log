@@ -1,0 +1,120 @@
+Unable to load appointment_type, underlying cause no such file to load -- appointment_type 
+
+ C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/appointment_kind_test.rb:1:in `require'
+./test/unit/appointment_kind_test.rb:1
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load appointment_type, underlying cause no such file to load -- appointment_type 
+
+ C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/appointments_controller_test.rb:1:in `require'
+./test/functional/appointments_controller_test.rb:1
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load appointment_type, underlying cause no such file to load -- appointment_type 
+
+ C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/appointment_kind_test.rb:1:in `require'
+./test/unit/appointment_kind_test.rb:1
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load appointment_type, underlying cause no such file to load -- appointment_type 
+
+ C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/appointments_controller_test.rb:1:in `require'
+./test/functional/appointments_controller_test.rb:1
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load appointment_type, underlying cause no such file to load -- appointment_type 
+
+ C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/unit/appointment_kind_test.rb:1:in `require'
+./test/unit/appointment_kind_test.rb:1
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+Unable to load appointment_type, underlying cause no such file to load -- appointment_type 
+
+ C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+C:/dev/Ruby187/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:158:in `require'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:265:in `require_or_load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:224:in `depend_on'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activesupport-2.3.8/lib/active_support/dependencies.rb:136:in `require_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:853:in `try_to_load_dependency'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/activerecord-2.3.8/lib/active_record/fixtures.rb:848:in `fixtures'
+./test/test_helper.rb:35
+./test/functional/appointments_controller_test.rb:1:in `require'
+./test/functional/appointments_controller_test.rb:1
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+C:/dev/Ruby187/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5

@@ -1,0 +1,17 @@
+<p>
+  <b>Last name:</b>
+  <%=h @doctor.last_name %>
+</p>
+
+<p>
+  <b>First name:</b>
+  <%=h @doctor.first_name %>
+  <ul>
+  <% @doctor.appointment_kinds.each do |app| %>
+  <li><%=h app.name %></li>
+  <% end %>
+</p>
+
+
+<%= link_to 'Edit', edit_doctor_path(@doctor) %> |
+<%= link_to 'Back', doctors_path %>

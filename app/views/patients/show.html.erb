@@ -1,0 +1,18 @@
+<p>
+  <b>Nom:</b>
+  <%=h @patient.nom %>
+</p>
+
+<p>
+  <b>Prenom:</b>
+  <%=h @patient.prenom %>
+</p>
+
+<p>
+  <b>Birthday:</b>
+  <%=h @patient.birthday %>
+</p>
+
+
+<%= link_to 'Edit', edit_patient_path(@patient) %> |
+<%= link_to 'Back', patients_path %>

@@ -1,0 +1,18 @@
+<p>
+  <b>Appointment kind:</b>
+  <%=h @appointment.appointment_kind %>
+</p>
+
+<p>
+  <b>Patient:</b>
+  <%=h @appointment.patient %>
+</p>
+
+<p>
+  <b>Start:</b>
+  <%=h @appointment.start %>
+</p>
+
+
+<%= link_to 'Edit', edit_appointment_path(@appointment) %> |
+<%= link_to 'Back', appointments_path %>

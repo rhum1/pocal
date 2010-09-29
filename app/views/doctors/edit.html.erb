@@ -1,0 +1,30 @@
+<h1>Editing doctor</h1>
+
+<% form_for(@doctor) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :last_name %><br />
+    <%= f.text_field :last_name %>
+  </p>
+  <p>
+    <%= f.label :first_name %><br />
+    <%= f.text_field :first_name %>
+  </p>
+  
+  <p>
+	
+	
+  </p>
+  <ul>
+  <% @appointment_kinds_list.each do |app| %>
+  <li><%= check_box_tag "doctor[appointment_kind_ids][]", app.id, @doctor.appointment_kinds.include?(app) -%><%= "#{app.name}" -%></li>
+  <% end %>
+  </ul>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @doctor %> |
+<%= link_to 'Back', doctors_path %>
